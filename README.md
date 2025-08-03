@@ -1,16 +1,58 @@
-# finstagram
+# 📸 Finstagram – A Modern Social Media App
 
-A new Flutter project.
+Finstagram is an Instagram-inspired **cross-platform mobile application** built using **Flutter** and **Firebase**. It demonstrates real-time social media functionality with a sleek and modern UI, designed to provide a rich, responsive, and interactive user experience.
 
-## Getting Started
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/23a8f068-948e-46b3-84e4-a51d42da3267" />
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎥 **Watch the Demo Video**  
+[Click here to watch the Finstagram demo](https://drive.google.com/file/d/1aU8fH7nRyqNdg0hGn0DlEgBPVqEv09hK/view?usp=drive_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## ✨ Features
+
+- 🔐 **Firebase Authentication** – Sign up, sign in, and log out securely
+- 👤 **Profile Management** – Upload profile pictures and edit details
+- 📰 **Real-Time Feed** – See posts update instantly via Firestore
+- 📸 **Create Posts** – Upload single or multiple images with captions
+- ❤️ **Like & Comment** – Engage with posts in real-time
+- 📁 **File Picker** – Choose media from device gallery
+- 🌐 **Cached Network Images** – Smooth image loading and display
+- 🎨 **Responsive Material UI** – Works great on all screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology         | Usage                              |
+|--------------------|-------------------------------------|
+| Flutter & Dart     | Cross-platform mobile development   |
+| Firebase Auth       | User authentication                |
+| Cloud Firestore    | Real-time NoSQL database            |
+| Firebase Storage   | Image/media uploads                 |
+| GetIt              | Dependency injection                |
+| File Picker        | Media selection                     |
+| CachedNetworkImage | Efficient image caching             |
+| Material Design    | Clean UI/UX                         |
+
+---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/6ad0c5c2-141c-44b2-bb01-ce066a808a08" width="200"/>
+  <img src="https://github.com/user-attachments/assets/85a92b80-7cde-412b-9f99-6852f7e3510d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5ed91ea7-b379-4e7a-bb07-ae9d55db6ae4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a204d3e8-1f07-43fa-ba12-66e1661a6cbf" width="200"/>
+</p>
+
+
+---
+
+## 📂 Project Structure
+
