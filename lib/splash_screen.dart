@@ -56,7 +56,7 @@ class _SplashScreenState extends State<SplashScreen>
       animation: _animation,
       builder: (context, child) {
         return Transform.translate(
-          offset: Offset(0, -_animation.value), // Move up and down
+          offset: Offset(0, -_animation.value),
           child: child,
         );
       },
@@ -77,7 +77,7 @@ class _SplashScreenState extends State<SplashScreen>
 
   @override
   void dispose() {
-    _controller.dispose(); // Dispose animation controller to avoid leaks
+    _controller.dispose();
     super.dispose();
   }
 }
