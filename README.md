@@ -16,6 +16,7 @@ Finstagram is an Instagram-inspired **cross-platform mobile application** built 
 
 ## ✨ Features
 
+
 - 🔐 **Firebase Authentication** – Sign up, sign in, and log out securely
 - 👤 **Profile Management** – Upload profile pictures and edit details
 - 📰 **Real-Time Feed** – See posts update instantly via Firestore
