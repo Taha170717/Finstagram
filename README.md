@@ -7,7 +7,6 @@ Finstagram is an Instagram-inspired **cross-platform mobile application** built 
 ---
 
 
-
 ## 🚀 Demo
 
 🎥 **Watch the Demo Video**  
